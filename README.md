@@ -1,4 +1,4 @@
-# Team Ethernet
+# The Team
 
 We are a team of students studying Information and Communication Technology at KTH Royal Institute of Technology in Stockholm. 
 We are currently taking the course [II1305 Project in Information and Communication Technology](https://www.kth.se/student/kurser/kurs/II1305), during which we are conducting a project.

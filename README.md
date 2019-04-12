@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Team Ethernet
 
-You can use the [editor on GitHub](https://github.com/team-ethernet/team-ethernet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a team of students studying Information and Communication Technology at KTH Royal Institute of Technology in Stockholm. 
+We are currently taking the course [II1305 Project in Information and Communication Technology](https://www.kth.se/student/kurser/kurs/II1305), during which we are conducting a project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Internet of Noisy Things
+We are developing a noise sensor network for [KTH Network Systems Lab](https://www.kth.se/cos/research/nslab).
+The project goal is to design and implement a complete network of noise sensors including
+- Input of data from noise sensors.
+- Connecting noise sensors in a wireless sensor network.
+- Storage and access of sensor data.
+- Web interface for accessing and displaying sensor data.
 
-### Markdown
+We will also, time permitting
+- Investigate server-side support for CoAP pubsub.
+- Investigate alternative solutions for noise measurements.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Team members
+Anton Bothin abothin@kth.se  
+Erik Flink erikfli@kth.se  
+Nelly Friman nellyf@kth.se  
+Jacob Klasmark jacobkl@kth.se  
+Valter Lundegårdh valterlu@kth.se  
+Isak Olsson isakol@kth.se  
+Andreas Sjödin ansjod@kth.se  
+Carina Wickström carinawi@kth.se  
 
-```markdown
-Syntax highlighted code block
+If you have questions about the project, please contact our scrum master TBD.
 
-# Header 1
-## Header 2
-### Header 3
+# Sprint 1: 23-29 April
 
-- Bulleted
-- List
+# Sprint 2: 2-8 May
 
-1. Numbered
-2. List
+# Sprint 3: 9-15 May
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-ethernet/team-ethernet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Sprint 4: 16-22 May

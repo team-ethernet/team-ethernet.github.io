@@ -20,12 +20,12 @@ Anton Bothin abothin@kth.se
 Erik Flink erikfli@kth.se  
 Nelly Friman nellyf@kth.se  
 Jacob Klasmark jacobkl@kth.se  
-Valter Lundegårdh valterlu@kth.se  
+Valter Lundegårdh valterlu@kth.se (Scrum master)  
 Isak Olsson isakol@kth.se  
 Andreas Sjödin ansjod@kth.se  
 Carina Wickström carinawi@kth.se  
 
-If you have questions about the project, please contact our scrum master TBD.
+If you have questions about the project, please contact our scrum master Valter Lundegårdh.
 
 # Sprint 1: 23-29 April
 

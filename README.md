@@ -18,7 +18,7 @@ We will also, time permitting
 ## Team members
 Anton Bothin abothin@kth.se  
 Erik Flink erikfli@kth.se  
-Nelly Friman nellyf@kth.se  
+Nelly Friman nellyf@kth.se (Internal product owner)  
 Jacob Klasmark jacobkl@kth.se  
 Valter Lundegårdh valterlu@kth.se (Scrum Master)  
 Isak Olsson isakol@kth.se  

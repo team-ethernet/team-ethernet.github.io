@@ -28,6 +28,7 @@ Carina Wickström carinawi@kth.se
 If you have questions about the project, please contact our Scrum Master Valter Lundegårdh.
 
 # Sprint 1: 23-29 April
+Sprint info page: https://docs.google.com/document/d/15M-dUUjFefKChXCJpwwdAcvbw2sNByfrC6cUMOzWOdg/edit#heading=h.ukfnd9u65gsm
 
 # Sprint 2: 2-8 May
 

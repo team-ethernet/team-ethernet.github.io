@@ -37,6 +37,7 @@ Sprint backlog (Estimates in paranthesis):
   - Database design (13)
   - Web page design (20)
   - Complete system design (8)
+  
 Estimated velocity (52)
 
 Schedule:

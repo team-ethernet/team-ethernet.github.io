@@ -27,8 +27,8 @@ Carina Wickström carinawi@kth.se
 
 If you have questions about the project, please contact our Scrum Master Valter Lundegårdh.
 
-# Sprint 1: 23-29 April
-#Sprint Goal
+## Sprint 1: 23-29 April
+# Sprint Goal
 Design System & Prepare for development 
 # Sprint backlog (Estimates in paranthesis) 
   - Linux + Toolchain (13)

@@ -41,9 +41,9 @@ Design System & Prepare for development
 Estimated velocity (52)
 
 #Schedule
-Sprint Period: 2019.04.23-2019.04.29
-Daily Scrum: 8:15 in 304
-Sprint demo: 2019.04.29, 08:00 in Sal-B
+  - Sprint Period: 2019.04.23-2019.04.29
+  - Daily Scrum: 8:15 in 304
+  - Sprint demo: 2019.04.29, 08:00 in Sal-B
 
 
 

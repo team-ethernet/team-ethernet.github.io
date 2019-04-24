@@ -31,7 +31,7 @@ If you have questions about the project, please contact our Scrum Master Valter 
 Sprint Goal:
   - Design System & Prepare for development 
 
-Sprint backlog (Estimates in paranthesis) 
+Sprint backlog (Estimates in paranthesis):
   - Linux + Toolchain (13)
   - Data design (8)
   - Database design (13)

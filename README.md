@@ -31,7 +31,7 @@ If you have questions about the project, please contact our Scrum Master Valter 
 #Sprint Goal
 Design System & Prepare for development 
 
-#Sprint backlog (Estimates in paranthesis) 
+# Sprint backlog (Estimates in paranthesis) 
   - Linux + Toolchain (13)
   - Data design (8)
   - Database design (13)
@@ -40,7 +40,7 @@ Design System & Prepare for development
 
 Estimated velocity (52)
 
-#Schedule
+# Schedule
   - Sprint Period: 2019.04.23-2019.04.29
   - Daily Scrum: 8:15 in 304
   - Sprint demo: 2019.04.29, 08:00 in Sal-B

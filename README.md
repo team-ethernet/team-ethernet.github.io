@@ -47,7 +47,7 @@ Schedule:
 
 # Flow-chart
 
-![Flow-chart](images/Back end.png "Flow-chart")
+[![Flow-chart](images/Back end.png "Flow-chart")](images/Back end.png)
 
 # Sprint 2: 2-8 May
 

@@ -45,6 +45,8 @@ Schedule:
   - Daily Scrum: 8:15 in 304
   - Sprint demo: 2019.04.29, 08:00 in Sal-B
 
+# Flow-chart
+
 ![Flow-chart](images/Back end.png "Flow-chart")
 
 # Sprint 2: 2-8 May

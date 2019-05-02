@@ -50,6 +50,24 @@ Schedule:
 [![Flow-chart](images/Back end.png "Flow-chart")](images/Back end.png)
 
 # Sprint 2: 2-8 May
+Sprint Goal:
+  - SenML + CBOR Support 
+
+Sprint backlog (Estimates in paranthesis):
+  - SenML messages (13)
+  - CBOR on sensors (40)
+  - CBOR on server (8)
+  - Design SenML API (8)
+  - Implement SenML API (100)
+  - Frontend API access (40)
+  
+Estimated velocity (209)
+
+Schedule:
+  - Sprint Period: 2019.05.02-2019.05.08
+  - Daily Scrum: 8:15 in 304
+  - Sprint demo: 2019.05.08, 08:00 in Sal-B
+
 
 # Sprint 3: 9-15 May
 

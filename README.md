@@ -86,6 +86,6 @@ Sprint 3
   - Improve front end (13)
   - Live visualisation update (8)
 
-Total estimate 240
+Estimated velocity 240
 
 # Sprint 4: 16-22 May

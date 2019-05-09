@@ -86,6 +86,6 @@ Sprint goal:
   - Improve front end (13)
   - Live visualisation update (8)
 
-Estimated velocity 240
+Estimated velocity (240)
 
 # Sprint 4: 16-22 May

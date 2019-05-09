@@ -70,5 +70,22 @@ Schedule:
 
 
 # Sprint 3: 9-15 May
+Sprint goal: 
+  - Finish SenML API and implement new front end feature. 
+  
+ Sprintbacklog(Estimates in paranthesis):
+ From Sprint 2 (20)
+  - Tests for API 
+  - Design senML API 
+  - New microphone 
+  - Implement senML API 
+Sprint 3
+  - Design senML decode API (20)
+  - Look over documentation   (40)
+  - Implment senML decode API on server (40)
+  - Improve front end (13)
+  - Live visualisation update (8)
+
+Total estimate 240
 
 # Sprint 4: 16-22 May

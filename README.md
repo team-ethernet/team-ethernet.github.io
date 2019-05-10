@@ -66,7 +66,7 @@ Estimated velocity (209)
 Schedule:
   - Sprint Period: 2019.05.02-2019.05.08
   - Daily Scrum: 8:15 in 304
-  - Sprint demo: 2019.05.08, 08:00 in Sal-B
+  - Sprint demo: 2019.05.08, 08:00 in Sal-A
 
 
 # Sprint 3: 9-15 May

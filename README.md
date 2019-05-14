@@ -73,12 +73,14 @@ Schedule:
 Sprint goal: 
   - Finish SenML API and implement new front end feature. 
   
-  Sprintbacklog(Estimates in paranthesis):
+  Sprintbacklog (Estimates in paranthesis):
+
  ## From Sprint 2 (20)
   - Tests for API 
   - Design senML API 
   - New microphone 
-  - Implement senML API 
+  - Implement senML API
+  
  ## Sprint 3
   - Design senML decode API (20)
   - Look over documentation   (40)

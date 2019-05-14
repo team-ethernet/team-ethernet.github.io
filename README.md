@@ -71,9 +71,9 @@ Schedule:
 
 # Sprint 3: 9-15 May
 Sprint goal: 
-  - Finish SenML API and implement new front end feature. 
-  
-  Sprintbacklog (Estimates in paranthesis):
+  - Finish SenML API and implement new front end feature.
+
+Sprint backlog (Estimates in paranthesis):
 
  ## From Sprint 2 (20)
   - Tests for API 

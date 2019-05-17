@@ -91,3 +91,22 @@ Sprint backlog (Estimates in paranthesis):
 Estimated velocity (240)
 
 # Sprint 4: 16-22 May
+Sprint goal: 
+  - Finish implementing the API:s, clean up code, and prepare for the expo. 
+
+Sprint backlog (Estimates in paranthesis):
+  - Implement SenML decode API on server (40)
+  - Implement SenML decode API on sensor (100)
+  - Look over documentation   (40)
+  - Evaluate CBOR (13)
+  - Sliding window live update (5)
+  - Implment senML decode API on server (40)
+  - Code cleanup (8)
+  - Github cleanup (8)
+  
+Estimated velocity (249)
+
+Schedule:
+  - Sprint Period: 2019.05.16-2019.05.22
+  - Daily Scrum: 8:15 in 304
+  - Sprint demo: 2019.05.08, 08:00 location TBA

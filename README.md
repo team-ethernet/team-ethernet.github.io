@@ -15,6 +15,23 @@ We will also, time permitting
 - Investigate server-side support for CoAP pubsub.
 - Investigate alternative solutions for noise measurements.
 
+## How the project went
+
+Our first goal was to gather noise data from a network of noise sensors and display the data on a website.
+Our second goal was to implement support for sending the noise data messages in CBOR format through an API. This goal was added in the middle of the project as we succeeded with the first goal.
+
+### Microphone
+
+We used the Sen0232 noise sensor microphone connected to an MCU. The sensor outputs a voltage that is proportional to the sound level. We then convert the voltage to dB.
+
+### SenML & CBOR API
+
+Our sensors send their data in a standard called SenML (Sensor Measurement Lists). Anyone that uses our SenML API can easily send sensor data in both JSON and CBOR format. CBOR is more compact, saving memory and power.
+
+### Front end & Back end
+
+The noise data is visualized as graphs on our website. Thanks to our API you can specify what data you want to see. You can set a time interval, dB-interval, etc. You can also download the data. We even added the feature to live-update the graphs. 
+
 ## Team members
 Anton Bothin abothin@kth.se  
 Erik Flink erikfli@kth.se  

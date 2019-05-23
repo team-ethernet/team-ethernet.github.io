@@ -32,6 +32,24 @@ Our sensors send their data in a standard called SenML (Sensor Measurement Lists
 
 The noise data is visualized as graphs on our website. Thanks to our API you can specify what data you want to see. You can set a time interval, dB-interval, etc. You can also download the data. We even added the feature to live-update the graphs. 
 
+## Guides and reports
+
+These are the guides and reports we produced during the project.  
+
+### Guides
+
++ [Front end development.pdf](guides\Front end development.pdf)
++ [Getting started with the database and backend.pdf](guides/How to install and use Mosquitto for Windows.pdf)
++ [How to install and use Mosquitto for Windows.pdf](guides\How to install and use Mosquitto for Windows.pdf)
++ [Instructions for setting up toolchain for microcomputer.pdf](guides\Instructions for setting up toolchain for microcomputer.pdf)
++ [Running simulated sensors with simsens.jar.pdf](guides\Running simulated sensors with simsens.jar.pdf)
+
+### Reports
+
++ [Noise sensor diagnostic evaluation 1.0 2019-05-21.pdf](reports\Noise sensor diagnostic evaluation 1.0 2019-05-21.pdf)
++ [Sen0232 analysis 1.0 2019-05-21.pdf](reports\Sen0232 analysis 1.0 2019-05-21.pdf)
++ [SenML API encode CBOR evalutation 1.0 2019-05-20.pdf](reports\SenML API encode CBOR evalutation 1.0 2019-05-20.pdf)
+
 ## Team members
 Anton Bothin abothin@kth.se  
 Erik Flink erikfli@kth.se  

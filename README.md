@@ -39,7 +39,7 @@ These are the guides and reports we produced during the project.
 ### Guides
 
 + [Front end development.pdf](guides\Front end development.pdf)
-+ [Getting started with the database and backend.pdf](guides/How to install and use Mosquitto for Windows.pdf)
++ [Getting started with the database and backend.pdf](guides/Getting started with the database and backend.pdf)
 + [How to install and use Mosquitto for Windows.pdf](guides\How to install and use Mosquitto for Windows.pdf)
 + [Instructions for setting up toolchain for microcomputer.pdf](guides\Instructions for setting up toolchain for microcomputer.pdf)
 + [Running simulated sensors with simsens.jar.pdf](guides\Running simulated sensors with simsens.jar.pdf)
